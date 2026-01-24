@@ -1,0 +1,12 @@
+# Cursor Ignore File
+# Files and directories that Cursor should ignore when searching and indexing
+*.ico
+.env*
+
+# Restore folders and files from .gitignore (should be indexed by Cursor)
+!.cursor/
+!.env.local
+
+# Folders
+
+# Files

@@ -1,0 +1,7 @@
+# Cursor Indexing Ignore File
+# Files and directories that should be excluded from Cursor's codebase indexing
+# This helps improve performance by excluding large or irrelevant files
+
+# Folders
+
+# Files
