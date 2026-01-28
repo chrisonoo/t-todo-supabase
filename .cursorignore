@@ -4,8 +4,8 @@
 .env*
 
 # Restore folders and files from .gitignore (should be indexed by Cursor)
-!.cursor/
-!.env.local
+#!.cursor/
+#!.env.local
 
 # Folders
 

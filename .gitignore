@@ -33,6 +33,7 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 !.env.example
+!.env.supabase.example
 
 # vercel
 .vercel
@@ -48,9 +49,9 @@ next-env.d.ts
 ###########################################################################
 
 # AI & Cursor related files (should be indexed by Cursor but not in repo)
-.cursor/
-.cursorignore
-.cursorindexingignore
+#.cursor/
+#.cursorignore
+#.cursorindexingignore
 
 # Certificates mkcert `dev:https`
 certificates

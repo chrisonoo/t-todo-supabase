@@ -1,0 +1,13 @@
+---
+alwaysApply: true
+---
+
+# Key rules for all agents
+
+Reply in Polish using a concise style. Avoid unnecessary repetition or filler. If I explicitly ask for a deeper explanation, explain the topic in detail so I can learn it.
+
+All code, code comments, and git commit messages must always be in English, regardless of the chat language.
+
+Always follow Conventional Commits for git commit messages and keep them concise. Every commit must start with an appropriate type, e.g., feat, chore, fix, refactor, style, docs.
+
+The agent must NEVER use the commands `git commit`, `git push`, `git add .`, `pnpm sb:seed`.
